@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou o Matheus</h1>
+<h1 align="center">Olá 👋, eu sou o Matheus Dutra 😃</h1>
 <h3 align="center">Tenho 17 anos e estou atualmente cursando análise e desenvolvimento de sistemas no SENAI.</h3>
 <br/>
-<h2 align="center">Linguagens e Ferramentas:</h2>
+<h2 align="center">Linguagens e Ferramentas que utilizo:</h2>
 <br/>
 <p align="center"> 
   <div align="center"> 
