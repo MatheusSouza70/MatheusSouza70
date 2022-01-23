@@ -26,13 +26,13 @@
 </div>
 <br/>
 <br/>
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussouza70&show_icons=true&locale=en&layout=compact&theme=prussian" alt="matheussouza70" /></div>
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussouza70&show_icons=true&locale=en&layout=compact&theme=swift" alt="matheussouza70" /></div>
 <br/>
 <br/>
-<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matheussouza70&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="matheussouza70" /></div>
+<div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=matheussouza70&theme=swift&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="matheussouza70" /></div>
 <br/>
 <br/>
-<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheussouza70&show_icons=true&locale=en&theme=prussian" alt="matheussouza70" /></div>
+<div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matheussouza70&show_icons=true&locale=en&theme=swift" alt="matheussouza70" /></div>
 <br/>
 <br/>
 <div align="center">
@@ -42,5 +42,8 @@
   </font>
 </strong>
 </div>
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 <br/>
 <br/>
