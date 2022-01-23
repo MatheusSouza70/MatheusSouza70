@@ -1,7 +1,7 @@
-<h1 align="center">Olá 👋, eu sou o Matheus Dutra 😃</h1>
+<h1 align="center">Olá, eu sou o Matheus Dutra.</h1>
 <h3 align="center">Tenho 17 anos e estou atualmente cursando análise e desenvolvimento de sistemas no SENAI.</h3>
 <br/>
-<h2 align="center">Linguagens e Ferramentas que utilizo:</h2>
+<h2 align="center">Linguagens e Ferramentas que utilizo</h2>
 <br/>
 <p align="center"> 
   <div align="center"> 
@@ -11,6 +11,8 @@
     <img align="center" alt="Matheus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
+    <img align="center" alt="Matheus-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
 </p>
 </div>
 <br/>
