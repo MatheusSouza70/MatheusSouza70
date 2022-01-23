@@ -7,7 +7,7 @@
 <p align="center"> - ⚡ Fato interessante: Gosto de desenhar e tocar guitarra/baixo :) </p>
 <p align="center"> - 🔬 Visando cursar Ciência da Computação </p>
 <br/>
-<h1 align="center"> ## Linguagens e Ferramentas que utilizo</h1>
+<h1 align="center"> ## Linguagens e Ferramentas</h1>
 <br/>
 <p align="center"> 
   <div align="center"> 
