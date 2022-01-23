@@ -5,7 +5,7 @@
 <p align="center"> - 👯 Disposto a colaborar com outros dev's!</p>
 <p align="center"> - 🥅 Com o objetivo em sempre ser melhor que ontem. </p>
 <p align="center"> - ⚡ Fato interessante: Gosto de desenhar e tocar guitarra/baixo :) </p>
-<p align="center"> - 🔬 Visando cursar Ciência da Computação </p>
+<p align="center"> - 🔬 Visando cursar Ciência da Computação. </p>
 <br/>
 <h1 align="center"> ## Linguagens e Ferramentas</h1>
 <br/>
