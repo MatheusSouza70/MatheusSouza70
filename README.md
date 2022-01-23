@@ -1,7 +1,13 @@
-<h1 align="center">Olá, eu sou o Matheus Dutra.</h1>
+<h1 align="center">## Olá, eu sou o Matheus Dutra.</h1>
 <h3 align="center">Tenho 17 anos e estou atualmente cursando análise e desenvolvimento de sistemas no SENAI.</h3>
+
+<p align="center"> - 🌱 Sempre interessado em aprender coisas novas. </p>
+<p align="center"> - 👯 Disposto a colaborar com outros dev's!</p>
+<p align="center"> - 🥅 Com o objetivo em sempre ser melhor que ontem. </p>
+<p align="center"> - ⚡ Fato interessante: Gosto de desenhar e tocar guitarra/baixo :) </p>
+<p align="center"> - 🔬 Visando cursar Ciência da Computação </p>
 <br/>
-<h2 align="center">Linguagens e Ferramentas que utilizo</h2>
+<h1 align="center"> ## Linguagens e Ferramentas que utilizo</h1>
 <br/>
 <p align="center"> 
   <div align="center"> 
@@ -13,6 +19,9 @@
     <img align="center" alt="Matheus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Matheus-PHP" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
     <img align="center" alt="Matheus-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg">
+    <img align="center" alt="Matheus-SQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+    <img align="center" alt="Matheus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+    <img align="center" alt="Matheus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </p>
 </div>
 <br/>
