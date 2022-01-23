@@ -1,5 +1,5 @@
 <h1 align="center">## Olá, eu sou o Matheus Dutra.</h1>
-<h3 align="center">Tenho 17 anos e estou atualmente cursando análise e desenvolvimento de sistemas no SENAI.</h3>
+<h3 align="center"></h3>
 
 <p align="center"> - 🌱 Sempre interessado em aprender coisas novas. </p>
 <p align="center"> - 👯 Disposto a colaborar com outros dev's!</p>
@@ -26,6 +26,8 @@
 </div>
 <br/>
 <br/>
+<details>
+  <summary>:zap: Estatísticas do Github </summary>
 <div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matheussouza70&show_icons=true&locale=en&layout=compact&theme=swift" alt="matheussouza70" /></div>
 <br/>
 <br/>
@@ -36,14 +38,20 @@
 <br/>
 <br/>
 <div align="center">
+  
+</details>
 <strong>
   <font size="+2" style="font">
    
   </font>
 </strong>
 </div>
+<details>
+  <summary>:zap: Atividade recente no Github</summary>
+  
 <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
 
-<!--END_SECTION:activity-->
+</details>
 <br/>
 <br/>
