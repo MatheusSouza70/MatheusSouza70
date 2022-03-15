@@ -1,4 +1,4 @@
-<h1 align="center">## Olá, eu sou o Matheus Dutra.</h1>
+<h1 align="center">Olá, eu sou o Matheus Dutra.</h1>
 <h3 align="center"></h3>
 
 <p align="center"> - 🌱 Sempre interessado em aprender coisas novas. </p>
@@ -7,7 +7,7 @@
 <p align="center"> - ⚡ Fato interessante: Gosto de desenhar e tocar guitarra/baixo :) </p>
 <p align="center"> - 🔬 Cursando Análise e Desenvolvimento de Sistemas (2/3) </p>
 <br/>
-<h1 align="center"> ## Linguagens e Ferramentas</h1>
+<h1 align="center">Linguagens e Ferramentas</h1>
 <br/>
 <div align="center">
   
