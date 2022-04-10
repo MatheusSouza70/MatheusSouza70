@@ -23,12 +23,6 @@
   ![Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
   ![Badge](https://aleen42.github.io/badges/src/photoshop.svg)
   ![Badge](https://aleen42.github.io/badges/src/premiere.svg)<br>
-  ![Badge](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)<br>
-  <h1> PC Specs </h1>
-  
-  ![Badge](https://img.shields.io/badge/AMD-Ryzen_5_5600G-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-  ![Badge](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-  
 </div>
 </div>
 <br/>
@@ -53,12 +47,5 @@
   </font>
 </strong>
 </div>
-<details>
-  <summary>:zap: Atividade recente no Github</summary>
-  
-<!--START_SECTION:activity-->
-  <!--END_SECTION:activity-->
-
-</details>
 <br/>
 <br/>
