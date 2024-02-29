@@ -4,7 +4,7 @@
 <p align="center"> - 🌱 Sempre interessado em aprender coisas novas. </p>
 <p align="center"> - 🥅 Com o objetivo em sempre ser melhor que ontem. </p>
 <p align="center"> - 🔬 Análise e Desenvolvimento de Sistemas (3/3) </p>
-<p align="center"> - 🔬 Ciência da Computação (1/8) </p>
+<p align="center"> - 🔬 Ciência da Computação (3/8) </p>
 <br/>
 <h1 align="center">Linguagens e Ferramentas</h1>
 <br/>
